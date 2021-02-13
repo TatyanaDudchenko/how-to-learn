@@ -1,0 +1,11 @@
+.feynman {
+  background-image: url(../../images/feynman.png);
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  /*выше иллюстрация установлена как фоновое изображение блока*/
+  min-height: 790px;
+  padding-top: 80px;
+  background-color: #f2f2f2;
+  /*ниже установлена позиция блока, относительно которой далее абсолютно позиционирована ссылка*/
+  position: relative;
+}

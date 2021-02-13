@@ -1,0 +1,11 @@
+.footer__column-link {
+  color: #fff;
+  text-decoration: none;
+  /*выше убрано подчеркивание ссылок в Подвале сайта и задан цвет*/
+  transition: 0.3s ease-in;
+}
+
+.footer__column-link:hover {
+  text-shadow: 3px 3px 4px #006eff;
+  opacity: 70%;
+}
